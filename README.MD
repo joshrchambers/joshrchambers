@@ -12,8 +12,6 @@
 - I'm from Salt Lake, Utah.
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joshrchambers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshrchambers)
  -->
- 
----
 
 ### 🔥 &nbsp; My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshrchambers&theme=dark&background=000000)
