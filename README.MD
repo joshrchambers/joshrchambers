@@ -15,13 +15,6 @@
  
 ---
 
-### 🛠 &nbsp;Languages and Tools :
-
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,nodejs,react,vue,materialui,css,html,django,go,java,cpp,docker,firebase,aws,gcp,azure,mysql,git,flutter,redux,figma)](https://skillicons.dev)
-<!-- https://github.com/tandpfun/skill-icons -->
-
----
-
 ### 🔥 &nbsp; My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshrchambers&theme=dark&background=000000)
 
