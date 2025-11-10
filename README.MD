@@ -9,7 +9,8 @@
 ### About Me:
 
 - I'm a Full Stack Developer
-- I'm from Salt Lake, Utah.
+- I'm from San Diego, California
+- Currently live in Utah
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joshrchambers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joshrchambers)
 
 ### 🔥 &nbsp; My Stats :
