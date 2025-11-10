@@ -14,7 +14,7 @@
  -->
 
 ### 🔥 &nbsp; My Stats :
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=joshrchambers&theme=dark&background=000000)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshrchambers&theme=sunset-gradient&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshrchambers&show_icons=true&theme=vision-friendly-dark&hide=contribs,issues)
 
