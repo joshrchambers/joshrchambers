@@ -8,8 +8,8 @@
 
 ### About Me:
 
-- I'm a Full Stack Developer
-- I'm from San Diego, California
+- Full Stack Developer
+- From San Diego
 - Currently live in Utah
 - How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-joshrchambers-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/josh-chambers-12541b106)
 
