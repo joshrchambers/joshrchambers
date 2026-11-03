@@ -9,4 +9,4 @@
 website loading... 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshrchambers&theme=sunset-gradient&short_numbers=true&exclude_days=Sun)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Joshrchambers&theme=sunset-gradient&short_numbers=true&exclude_days=Sun,Sat)](https://git.io/streak-stats)
